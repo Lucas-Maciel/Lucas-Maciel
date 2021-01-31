@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I’m currently working with metagenomics at VIB-KU Leuven. 
+
+I also have experience with RNA-Seq, ChIP-SEQ, Genome assembly and other Bioinformatics areas.
+
+My repos so far are private as they are related to my work at companies, but in the future I intend to make them publicly.
 <!--
 **Lucas-Maciel/Lucas-Maciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
